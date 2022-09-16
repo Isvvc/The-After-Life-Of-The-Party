@@ -665,6 +665,13 @@ Arranged by Elaine Lyons</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -672,22 +679,15 @@ Arranged by Elaine Lyons</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -703,8 +703,8 @@ Arranged by Elaine Lyons</text>
                     </location>
                   </next>
                 </Spanner>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
@@ -722,8 +722,8 @@ Arranged by Elaine Lyons</text>
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -749,8 +749,8 @@ Arranged by Elaine Lyons</text>
                     </location>
                   </next>
                 </Spanner>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>
@@ -769,22 +769,22 @@ Arranged by Elaine Lyons</text>
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -800,8 +800,8 @@ Arranged by Elaine Lyons</text>
                     </location>
                   </next>
                 </Spanner>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
@@ -828,8 +828,8 @@ Arranged by Elaine Lyons</text>
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -842,8 +842,8 @@ Arranged by Elaine Lyons</text>
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -873,8 +873,8 @@ Arranged by Elaine Lyons</text>
                     </location>
                   </next>
                 </Spanner>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -892,33 +892,66 @@ Arranged by Elaine Lyons</text>
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
@@ -931,58 +964,30 @@ Arranged by Elaine Lyons</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
-          <Chord>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
+          <Rest>
             <durationType>eighth</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
