@@ -19541,15 +19541,6 @@ Arranged by Elaine Lyons</text>
             <durationType>whole</durationType>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
-              <Spanner type="Tie">
                 <prev>
                   <location>
                     <measures>-1</measures>
@@ -19561,15 +19552,6 @@ Arranged by Elaine Lyons</text>
               </Note>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
-              <Spanner type="Tie">
                 <prev>
                   <location>
                     <measures>-1</measures>
@@ -19580,15 +19562,6 @@ Arranged by Elaine Lyons</text>
               <tpc>14</tpc>
               </Note>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -19605,37 +19578,77 @@ Arranged by Elaine Lyons</text>
       <Measure>
         <voice>
           <Chord>
-            <durationType>whole</durationType>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
             <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
             <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    </location>
-                  </prev>
-                </Spanner>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>41</pitch>
+              <tpc>13</tpc>
+              </Note>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>41</pitch>
+              <tpc>13</tpc>
+              </Note>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>41</pitch>
+              <tpc>13</tpc>
+              </Note>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>41</pitch>
+              <tpc>13</tpc>
+              </Note>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
