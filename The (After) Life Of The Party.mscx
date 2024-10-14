@@ -8,6 +8,8 @@
     <Division>480</Division>
     <Style>
       <enableVerticalSpread>1</enableVerticalSpread>
+      <measureNumberInterval>1</measureNumberInterval>
+      <measureNumberSystem>0</measureNumberSystem>
       <useStandardNoteNames>0</useStandardNoteNames>
       <createMultiMeasureRests>1</createMultiMeasureRests>
       <Spatium>1.75</Spatium>
@@ -28363,6 +28365,8 @@ Arranged by Elaine Lyons</text>
         <pageWidth>8.27</pageWidth>
         <pageHeight>11.69</pageHeight>
         <enableVerticalSpread>1</enableVerticalSpread>
+        <measureNumberInterval>1</measureNumberInterval>
+        <measureNumberSystem>0</measureNumberSystem>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.74978</Spatium>
